@@ -3,7 +3,7 @@ import devices from "../assets/device.svg";
 const Dashboard = () => {
   return (
     <div
-      className="flex justify-between  ml-[5%] font-barlow  lg:mt-[-13.5rem]
+      className="flex justify-between  2xl:text-left xl:ml-[-8%] font-barlow  lg:mt-[-13.5rem]
       lg:flex-row lg:gap-0 md:flex-col-reverse md:mt-[-18rem] md:gap-20
     max-sm:flex-col-reverse max-sm:mt-[-24rem] ">
       <div className=" space-y-[1.9rem] md:m-auto ">
